@@ -1,0 +1,12 @@
+[
+  "Artifact Flagged Malicious by Antivirus Service",
+  "Executable with Encrypted Sections",
+  "PE Resource Indicates Russian Origin",
+  "Artifact Flagged as Known Trojan by Antivirus",
+  "Artifact Flagged by Antivirus",
+  "PE Checksum is Invalid",
+  "PE COFF Header Timestamp is Set to Date in the Future",
+  "PE COFF File Header Had Unexpected NumberOfSymbols",
+  "Potential Code Injection Detected",
+  "PE Has Sections Marked Executable and Writable"
+]
